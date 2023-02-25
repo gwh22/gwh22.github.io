@@ -4,7 +4,7 @@
 
 
 ## Introduction
-This is a [demo](http://dongchaoyang.top/InstructTTS//) for our paper **_InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt_**. In the following, we will show some generated samples by our proposed method. More Generated speech, please refer to https://github.com/yangdongchao/InstructTTS/tree/gh-pages
+Interpret-TTS
 
 
 ## Parallel Style Transfer.
@@ -19,9 +19,9 @@ This is a [demo](http://dongchaoyang.top/InstructTTS//) for our paper **_Instruc
 
 ## Non-parallel Style Transfer.
 | <center> Text </center> |
-
+| the invention of movable metal letters in the middle of the fifteenth century may justly be considered as the invention of the art of printing. |
 | <center> Reference Speech </center> | <center> Generated Speech </center>|
-
+| -----------     | 
 |<audio src="Interpret-TTS/NPST/000000_g.wav" controls preload></audio>  |  <audio src="Interpret-TTS/NPST/000000_p.wav" controls preload></audio> |
 
 |<audio src="Interpret-TTS/NPST/000009_g.wav" controls preload></audio>  |  <audio src="Interpret-TTS/NPST/000009_p.wav" controls preload></audio> |
