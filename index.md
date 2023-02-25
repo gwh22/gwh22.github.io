@@ -20,9 +20,7 @@ Interpret-TTS
 ## Non-parallel Style Transfer.
 | <center> Text </center> |
 | the invention of movable metal letters in the middle of the fifteenth century may justly be considered as the invention of the art of printing. |
-| -----------     |  -----------     |
 | <center> Reference Speech </center> | <center> Generated Speech </center>|
-| -----------     |  -----------     |
 |<audio src="Interpret-TTS/NPST/000000_g.wav" controls preload></audio>  |  <audio src="Interpret-TTS/NPST/000000_p.wav" controls preload></audio> |
 
 |<audio src="Interpret-TTS/NPST/000009_g.wav" controls preload></audio>  |  <audio src="Interpret-TTS/NPST/000009_p.wav" controls preload></audio> |
