@@ -1,10 +1,10 @@
-# <center> Interpret-TTS </center>
+# <center> Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge </center>
 
 
 
 
 ## Introduction
-Interpret-TTS
+Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge
 
 
 ## Parallel Style Transfer.
