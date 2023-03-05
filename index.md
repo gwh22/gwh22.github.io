@@ -23,13 +23,11 @@ Experiments on LibriTTS datatset demonstrate that our method is more effective t
 
 ---
 
+
 | <center> Reference Speech </center> | <center> Generated Speech </center>|
-| -----------     | -----------     |
-
+| -- | -- |
 |<audio src="Interpret-TTS/NPST/000009_g.wav" controls preload></audio>  |  <audio src="Interpret-TTS/NPST/000009_p.wav" controls preload></audio> |
-
 |<audio src="Interpret-TTS/NPST/000032_g.wav" controls preload></audio>  |  <audio src="Interpret-TTS/NPST/000032_p.wav" controls preload></audio> |
-
 |<audio src="Interpret-TTS/NPST/000048_g.wav" controls preload></audio>  |  <audio src="Interpret-TTS/NPST/000048_p.wav" controls preload></audio> |
 
 
