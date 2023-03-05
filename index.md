@@ -21,8 +21,7 @@ Experiments on LibriTTS datatset demonstrate that our method is more effective t
 | ----------- |
 | the invention of movable metal letters in the middle of the fifteenth century may justly be considered as the invention of the art of printing. |
 
-
-
+---
 
 | <center> Reference Speech </center> | <center> Generated Speech </center>|
 | -----------     | -----------     |
