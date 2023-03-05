@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman 
+layout: default
+markdown: kramdown
+title: "Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge"
