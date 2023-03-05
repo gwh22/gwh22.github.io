@@ -35,6 +35,6 @@ Experiments on LibriTTS datatset demonstrate that our method is more effective t
 
 | <center> Reference Speech </center> | <center> Dimension </center> | <center> Generated Speech </center> |
 | -----------     | -----------     |-----------     |
-| <audio src="Interpret-TTS/style_interpret/19_198_000024_000005.wav" controls preload></audio> | Dimension 1 | <audio src="Interpret-TTS/style_interpret/dim1/generate.wav" controls preload></audio> |
-| <audio src="Interpret-TTS/style_interpret/19_198_000024_000005.wav" controls preload></audio> | Dimension 5 | <audio src="Interpret-TTS/style_interpret/dim5/generate.wav" controls preload></audio> |
-| <audio src="Interpret-TTS/style_interpret/19_198_000024_000005.wav" controls preload></audio> | Dimension 18 | <audio src="Interpret-TTS/style_interpret/dim18/generate.wav" controls preload></audio> |
+| <audio src="Interpret-TTS/style_interpret/696_93314_000002_000000.wav" controls preload></audio> | Dimension 1 | <audio src="Interpret-TTS/style_interpret/dim1/generate.wav" controls preload></audio> |
+| <audio src="Interpret-TTS/style_interpret/696_93314_000002_000000.wav" controls preload></audio> | Dimension 7 | <audio src="Interpret-TTS/style_interpret/dim7/generate.wav" controls preload></audio> |
+| <audio src="Interpret-TTS/style_interpret/696_93314_000002_000000.wav" controls preload></audio> | Dimension 28 | <audio src="Interpret-TTS/style_interpret/dim28/generate.wav" controls preload></audio> |
