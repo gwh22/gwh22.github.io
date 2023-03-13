@@ -1,8 +1,8 @@
 
 ## Abstract
----
-The demo page of `Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge`.
 
+The demo page of `Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge`.
+---
 ## Parallel Style Transfer.
 
 | <center> Reference Speech </center> | <center> Text </center> | <center> GenerSpeech </center>| <center> Our </center>|
