@@ -5,11 +5,12 @@
 
 ## Parallel Style Transfer.
 
-| <center> Reference Speech </center> | <center> Text </center> | <center> Generated Speech </center>|
+| <center> Reference Speech </center> | <center> Text </center> | <center> GenerSpeech </center>| <center> Our </center>|
 | -----------     |  -----------     | -----------     |
-|  <audio src="Interpret-TTS/PST/wavs_g/[000009].wav" controls preload></audio>  | we will leave the banker contemplating the enormous magnitude of his debt before the phantom of bankruptcy , and follow the baroness , who after being momentarily crushed under the weight of the blow which had struck her , had gone to seek her usual adviser , lucien debray . |  <audio src="Interpret-TTS/PST/wavs_p/[000009].wav" controls preload></audio>  |
-| <audio src="Interpret-TTS/PST/wavs_g/[000028].wav" controls preload></audio> | when wendy returned diffidently she found peter sitting on the bed post crowing gloriously , while jane in her nighty was flying round the room in solemn ecstasy .| <audio src="Interpret-TTS/PST/wavs_p/[000028].wav" controls preload></audio> |
-| <audio src="Interpret-TTS/PST/wavs_g/[000029].wav" controls preload></audio> | we shall never get on together therefore , and theres no use trying . | <audio src="Interpret-TTS/PST/wavs_p/[000029].wav" controls preload></audio>|
+|  <audio src="Interpret-TTS/PST/81_true.wav" controls preload></audio>  | i was not thinking of that , replied madame danglars quickly . |  <audio src="Interpret-TTS/PST/81_gener.wav" controls preload></audio>  | <audio src="Interpret-TTS/PST/81_our.wav" controls preload></audio>  |
+| <audio src="Interpret-TTS/PST/135_true.wav" controls preload></audio> | of course all the boys went to school ; and most of them got into class three , but slightly was put first into class four and then into class five class one is the top class .| <audio src="Interpret-TTS/PST/135_gener.wav" controls preload></audio> |<audio src="Interpret-TTS/PST/135_our.wav" controls preload></audio> |
+| <audio src="Interpret-TTS/PST/231_true.wav" controls preload></audio> | shed like gardencourt a great deal better if it were a boarding house .| <audio src="Interpret-TTS/PST/231_gener.wav" controls preload></audio> |<audio src="Interpret-TTS/PST/231_our.wav" controls preload></audio> |
+| <audio src="Interpret-TTS/PST/339_true.wav" controls preload></audio> |it would have proved that he believed she was firm which was what she wished to seem to him .| <audio src="Interpret-TTS/PST/339_gener.wav" controls preload></audio> |<audio src="Interpret-TTS/PST/339_our.wav" controls preload></audio> |
 
 
 
